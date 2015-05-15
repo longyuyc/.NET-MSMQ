@@ -1,0 +1,5 @@
+F:\longyu\C#Project\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.exe.config
+F:\longyu\C#Project\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.exe
+F:\longyu\C#Project\MSMQDemo\MSMQDemo\bin\Debug\MSMQDemo.pdb
+F:\longyu\C#Project\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.exe
+F:\longyu\C#Project\MSMQDemo\MSMQDemo\obj\Debug\MSMQDemo.pdb
